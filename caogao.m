@@ -1,6 +1,6 @@
 clc
 clear
-
+%测试git上传
 n=input('the number of unit cell:\n');%选择元胞数量
 w=1;
 E=zeros(301,2*n);
